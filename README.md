@@ -10,7 +10,7 @@
 
 ![Arthursnoww GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthursnoww&theme=great-gatsby&show_icons=true)
 
-## Linguagens que programo no dia a dia:
+## skils:
 [![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
